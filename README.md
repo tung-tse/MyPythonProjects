@@ -13,3 +13,5 @@ https://drive.google.com/drive/folders/10B9h3cCwFEs-tX_wK3GfHGakGnPbqQ1S?usp=dri
 *python semantics & syntax*
 [BeeperRowAdv].(https://github.com/tung-tse/MyPythonProjects/blob/main/BeeperRowAdv.py)
 *python semantics & syntax*
+[Steeplechase].(https://github.com/tung-tse/MyPythonProjects/blob/main/Steeplechase.py)
+*python semantics & syntax*
