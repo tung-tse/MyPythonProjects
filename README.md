@@ -9,7 +9,7 @@ https://drive.google.com/drive/folders/10B9h3cCwFEs-tX_wK3GfHGakGnPbqQ1S?usp=dri
 *python semantics & syntax*
 [MoveToTheLand].(https://github.com/tung-tse/MyPythonProjects/blob/main/MoveToTheEnd.py)
 *python semantics & syntax*
-[BeeperRow].()
+[BeeperRow].(https://github.com/tung-tse/MyPythonProjects/blob/main/BeeperRow.py)
 *python semantics & syntax*
 [BeeperRowAdv].()
 *python semantics & syntax*
