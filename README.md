@@ -11,5 +11,5 @@ https://drive.google.com/drive/folders/10B9h3cCwFEs-tX_wK3GfHGakGnPbqQ1S?usp=dri
 *python semantics & syntax*
 [BeeperRow].(https://github.com/tung-tse/MyPythonProjects/blob/main/BeeperRow.py)
 *python semantics & syntax*
-[BeeperRowAdv].()
+[BeeperRowAdv].(https://github.com/tung-tse/MyPythonProjects/blob/main/BeeperRowAdv.py)
 *python semantics & syntax*
