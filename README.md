@@ -5,7 +5,11 @@ https://drive.google.com/drive/folders/10B9h3cCwFEs-tX_wK3GfHGakGnPbqQ1S?usp=dri
 # project source codes
 [StepUp].(https://github.com/tung-tse/MyPythonProjects/blob/main/StepUp.py)
 *python semantics & syntax*
-[PotholeFilling].()
+[PotholeFilling].(https://github.com/tung-tse/MyPythonProjects/blob/main/PotholeFilling.py)
 *python semantics & syntax*
+[MoveToTheLand].()
 *python semantics & syntax*
+[BeeperRow].()
+*python semantics & syntax*
+[BeeperRowAdv].()
 *python semantics & syntax*
